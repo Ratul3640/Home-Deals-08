@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "image":"https://i.ibb.co/tLXd1Wb/dan-gold-4-HG3-Ca3-Ez-Ww-unsplash.jpg",
+      "estate_title": "Cozy Single-Family Home",
+      "segment_name": "Single-family homes",
+      "description": "Charming single-family home nestled in a quiet neighborhood, boasting spacious rooms and a lush backyard oasis.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "2,200 sq ft",
+      "location": "Suburban Paradise, California",
+      "facilities": ["living room", "backyard garden", "garage"]
+    },
+    {
+      "id": 2,
+      "image":"https://i.ibb.co/DV8GQHB/georgie-cobbs-b-Kj-Hgo-Lbpo-unsplash.jpg",
+      "estate_title": "Quaint Townhouse Retreat",
+      "segment_name": "Townhouses",
+      "description": "Inviting townhouse with historic charm and modern conveniences, offering a peaceful escape in a bustling city.",
+      "price": "$450,000",
+      "status": "rent",
+      "area": "1,800 sq ft",
+      "location": "Historic District, Boston",
+      "facilities": ["living room", "backyard patio", "fireplace"]
+    },
+    {
+      "id": 3,
+      "image":"https://i.ibb.co/kmt0JbP/haley-carman-c4-Lp-Yfiz-Lvw-unsplash.jpg",
+      "estate_title": "Modern Urban Apartment",
+      "segment_name": "Apartments",
+      "description": "Sleek and stylish apartment in the heart of the city, featuring contemporary design and .",
+      "price": "$2,000/month",
+      "status": "sale",
+      "area": "1,000 sq ft",
+      "location": "Downtown Loft District, New York",
+      "facilities": ["living room", "gym", "rooftop terrace"]
+    },
+    {
+      "id": 4,
+      "image":"https://i.ibb.co/MVT4D7P/kenny-eliason-Wp7t4c-WN-68-unsplash.jpg",
+      "estate_title": "Student Housing Haven",
+      "segment_name": "Student housing",
+      "description": "Comfortable and convenient student housing, fostering a supportive environment for academic success and personal growth.",
+      "price": "$1,200/month",
+      "status": "rent",
+      "area": "700 sq ft",
+      "location": "University Campus, Los Angeles",
+      "facilities": ["study room", "common area", "laundry facilities"]
+    },
+    {
+      "id": 5,
+      "image":"https://i.ibb.co/svpYCHF/manja-vitolic-7t-OV35hnkao-unsplash.jpg",
+      "estate_title": "Luxury Senior Living Community",
+      "segment_name": "Senior living communities",
+      "description": "Exclusive retirement community providing upscale amenities and personalized care for a comfortable and vibrant lifestyle.",
+      "price": "$5,000/month",
+      "status": "sale",
+      "area": "1,500 sq ft",
+      "location": "Serenity Meadows, Florida",
+      "facilities": ["dining hall", "swimming pool", "wellness center"]
+    },
+    {
+      "id": 6,
+      "image":"https://i.ibb.co/fC3TnDr/naomi-hebert-2dc-Yhvb-HV-M-unsplash.jpg",
+      "estate_title": "Seaside Vacation Rental",
+      "segment_name": "Vacation rentals",
+      "description": "Idyllic vacation rental with breathtaking ocean views and access to pristine beaches, promising a rejuvenating getaway.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "1,200 sq ft",
+      "location": "Coastal Haven, Hawaii",
+      "facilities": ["beach access", "private deck", "BBQ area"]
+    },
+    {
+      "id": 7,
+      "image":"https://i.ibb.co/fDvJ8YX/pierre-chatel-innocenti-pxo-ZSTd-Aze-U-unsplash.jpg",
+      "estate_title": "Family-Friendly Suburban House",
+      "segment_name": "Single-family homes",
+      "description": "Spacious suburban home perfect for families, featuring a large backyard, play area, and close-knit community.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "2,500 sq ft",
+      "location": "Family Haven Subdivision, Texas",
+      "facilities": ["playroom", "backyard", "community park"]
+    },
+    {
+      "id": 8,
+      "image":"https://i.ibb.co/7SmPbCV/prudence-earl-Nw-Bx723-Xa-Hw-unsplash.jpg",
+      "estate_title": "Downtown Loft Living",
+      "segment_name": "Apartments",
+      "description": "Industrial-chic loft apartment in the bustling downtown district, offering unparalleled urban living and skyline views.",
+      "price": "$3,500/month",
+      "status": "sale",
+      "area": "1,400 sq ft",
+      "location": "Metropolis Heights, Chicago",
+      "facilities": ["open floor plan", "city views", "fitness center"]
+    },
+    {
+      "id": 9,
+      "image":"https://i.ibb.co/TMp1gpK/crew-1p-Jj-YDJW5-HM-unsplash.jpg",
+      "estate_title": "Retirement Villa Oasis",
+      "segment_name": "Senior living communities",
+      "description": "Retirement villa set amidst lush gardens and serene surroundings, providing tranquility and luxury for golden years.",
+      "price": "$7,500/month",
+      "status": "rent",
+      "area": "2,000 sq ft",
+      "location": "Elderly Elysium, Arizona",
+      "facilities": ["gated community", "spa", "gardens"]
+    }
+  ]
+  
